@@ -1,6 +1,9 @@
 # CSAngularWeek5
 Coursera Single Page Web Applications with AngularJS by the John Hopkins University course.
 
+## GitHub Page
+[Github Page for this Project](https://angeldark92.github.io/CSAngularWeek5/)
+
 ## Time to Complete
 It should take about 1 hours or less. (This is just an estimate. People's backgrounds differ, so for some people it will take longer to complete.)
 
